@@ -1,6 +1,7 @@
 # 🌈 Nébula Dulces
 
-Landing page de una pastelería temática (postres pastel + galácticos), construida con HTML, CSS y JavaScript puro, siguiendo la metodología **BEM**.
+Landing page de una pastelería temática (postres pastel + galácticos), construida con HTML, CSS y JavaScript puro, siguiendo la metodología **BEM**. 
+Aquí está el link de visuaLización de la página: https://juli-kodlana.github.io/Nebula-Dulces/
 
 ## 📁 Estructura
 
